@@ -1,1 +1,1 @@
-# Exploring-Patterns-in-Parking-and-Camera-Violations-in-NYC
+# Exploring Patterns in Parking and Camera Violations in NYC
